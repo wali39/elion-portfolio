@@ -225,8 +225,9 @@
   }
 
   .clients-box img {
-      width: 100%;
-      height: 110px;
+      width: 100px;
+      height: 100px;
+      /* height: 110px; */
   }
 
   /* working process section */
