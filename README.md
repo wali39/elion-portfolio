@@ -1,3 +1,3 @@
 # elion-portfolio
 
-live link: [Lsee demo](https://wali39.github.io/elison-portfolio/)
+live link: [see demo](https://wali39.github.io/elison-portfolio/)
